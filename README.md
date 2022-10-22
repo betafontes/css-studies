@@ -12,8 +12,6 @@ Esse repositório foi criado com o intuito de hospedar todos os meus conheciment
 
 ## 🚀 Conteúdos :
 
-Neste repositório contém esses tais estudos :
-
 - Desenho de um gato apenas com o CSS;
 - animações no CSS junto com um projeto final;
 

@@ -14,6 +14,7 @@ Esse repositório foi criado com o intuito de hospedar todos os meus conheciment
 
 - Desenho de um gato apenas com o CSS;
 - animações no CSS junto com um projeto final;
+- estudos relacionado a flexbox;
 
 <hr>
 

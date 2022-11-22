@@ -16,6 +16,7 @@ Esse repositório foi criado com o intuito de hospedar todos os meus conheciment
 - animações no CSS junto com um projeto final;
 - estudos relacionado a flexbox;
 - desenvolvimento do menu hamburguer;
+- barra de habilidades animado;
 
 <hr>
 

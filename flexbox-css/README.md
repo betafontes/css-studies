@@ -1,5 +1,6 @@
-# Animated Skills
+
+# Estudos sobre FlexBox
 
 ## 💻 Sobre o Projeto: 
 
-Esse projetinho foi desenvolvido com o intuito de praticar barras de skills animado com o CSS, baseado no vídeo do youtube do Conecta Elas!!
+Esse projetinho foi desenvolvido com o intuito de praticar e entender mais os conseitos do Flexbox, baseado no vídeo do youtube da Rafaella Ballerini!

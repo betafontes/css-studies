@@ -1,0 +1,142 @@
+body {
+    padding: 0;
+    margin: 0;
+    
+}
+
+.container {
+    height: 438px;
+    width: 350px;
+    background-color: rgba(147, 112, 216, 0.377);
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+}
+
+.gato {
+    position: relative;
+    top: 160px;
+    left: 106px;
+}
+
+.rosto {
+    background-color: #bdbbb0;
+    height: 90px;
+    width: 127px;
+    border-radius: 58px;
+}
+
+.orelha-1,.orelha-2 {
+    width: 0;
+    height: 0;
+    border-bottom: 50px solid #bdbbb0;
+    border-left: 30px solid transparent;
+    position: relative;
+    z-index: -1;
+}
+
+.orelha-1 {
+    bottom: 37px;
+    transform: rotate(-30deg);
+}
+
+.orelha-2 {
+    bottom: 89px;
+    left: 85px;
+    transform: rotate(3deg);
+}
+
+.orelha-dentro {
+    width: 0;
+    height: 12px;
+    border-bottom: 50px solid #ff99ac;
+    border-left: 22px solid transparent;
+    right: 26px;
+    position: relative;
+}
+
+.orelha-dentro2 {
+    width: 0;
+    height: 10px;
+    border-bottom: 54px solid #ff99ac;
+    border-right: 19px solid transparent;
+    left: -12px;
+    position: relative; 
+    transform: rotate(23deg);
+}
+
+.olhos-1, .olhos-2 {
+    background-color: #a2d2ff;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    position: relative;
+}
+
+.olhos-1 {
+    bottom: 75px;
+    left: 24px;
+}
+
+.olhos-2 {
+    bottom: 105px;
+    left: 75px;
+}
+
+.pupila-1 {
+    background-color: #353535;
+    height: 24px;
+    width: 11px;
+    border-radius: 50%;
+    position: relative;
+    top: 3px;
+    left: 5px;
+}
+
+.marca {
+    height: 0;
+    width: 8px;
+    border-top: 6px solid #8a897c;
+    border-left: 7px solid transparent;
+    border-right: 7px solid transparent;
+    position: relative;
+    bottom: 168px;
+    left: 54px;
+}
+
+
+
+.nariz {
+    height: 0;
+    width: 0;
+    border-top: 8px solid #ff99ac;
+    border-left: 7px solid transparent;
+    border-right: 7px solid transparent;
+    position: relative;
+    bottom: 110px;
+    left: 58px;
+}
+
+.bigodes1, .bigodes2 {
+    background-color: #8a897c;
+    height: 8px;
+    width: 1px;
+    position: relative;
+}
+
+.bigodes1 {
+    transform: rotate(63deg);
+    right: 6px;
+    bottom: 4px;
+}
+
+.bigodes2 {
+    transform: rotate(-68deg);
+    right: -6px;
+    bottom: 12px;
+}
+

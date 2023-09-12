@@ -17,7 +17,8 @@ Esse repositório foi criado com o intuito de hospedar todos os meus conheciment
 - Estudos relacionado a flexbox;
 - Desenvolvimento do menu hamburguer;
 - Barra de habilidades animado;
-- Uma navegação bar animada.
+- Uma navegação bar animada;
+- Tela de Login simples.
 
 <hr>
 
